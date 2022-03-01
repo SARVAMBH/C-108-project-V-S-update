@@ -1,0 +1,45 @@
+body{
+    background: radial-gradient(yellow,orange,red,green,blue,violet,purple,grey,brown,silver,gold,aqua,lime,pink,maroon,navy,lavender,ghostwhite,skyblue,black,turquoise,darkslategrey,lightgrey,darkred);
+}
+
+.header_div{
+    background-color: white;
+    color:red;
+}
+
+.header_div p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 155px;
+    font-size: bolder;
+    letter-spacing: 2.3px;
+    font-size: 23px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+    background-color: white;
+    font-size: 18px;
+}
+
+h4{
+    margin-top: 50px;
+    font-size: 25px;
+    color: aquamarine;
+    background-color:black;
+    width: 300px;
+}
